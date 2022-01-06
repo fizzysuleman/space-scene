@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/space-scene/static/css/main.28d0591e.css",
+    "main.js": "/space-scene/static/js/main.9df7e99f.js",
+    "static/js/787.2154af9a.chunk.js": "/space-scene/static/js/787.2154af9a.chunk.js",
+    "static/media/logo.svg": "/space-scene/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/space-scene/index.html",
+    "main.28d0591e.css.map": "/space-scene/static/css/main.28d0591e.css.map",
+    "main.9df7e99f.js.map": "/space-scene/static/js/main.9df7e99f.js.map",
+    "787.2154af9a.chunk.js.map": "/space-scene/static/js/787.2154af9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28d0591e.css",
+    "static/js/main.9df7e99f.js"
+  ]
+}
